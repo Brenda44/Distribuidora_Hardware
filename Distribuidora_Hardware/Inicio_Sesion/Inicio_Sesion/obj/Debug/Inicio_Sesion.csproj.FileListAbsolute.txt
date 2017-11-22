@@ -1,0 +1,11 @@
+C:\Users\Brenda\Desktop\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\bin\Debug\Inicio_Sesion.exe.config
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\bin\Debug\Inicio_Sesion.exe.config
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\bin\Debug\Inicio_Sesion.exe
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\bin\Debug\Inicio_Sesion.pdb
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.csprojResolveAssemblyReference.cache
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.Frm_Inicio.resources
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.Producto.resources
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.Properties.Resources.resources
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.csproj.GenerateResource.Cache
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.exe
+J:\programacion\Tercer Parcial\DISTRIBUIDORA HARDWARE\Distribuidora_Hardware\Inicio_Sesion\Inicio_Sesion\obj\Debug\Inicio_Sesion.pdb
